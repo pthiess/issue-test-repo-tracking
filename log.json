@@ -1,12 +1,15 @@
 {
   "6": {
     "2014-05-21 18:00:00": {
-      "added": [
+      "removed": [
         "Ready"
+      ],
+      "added": [
+        "Development"
       ]
     },
     "labels": [
-      "Ready"
+      "Development"
     ]
   },
   "7": {

@@ -11,16 +11,9 @@
   },
   "7": {
     "2014-05-21 18:00:00": {
-      "added": [
+      "removed": [
         "Review"
-      ]
-    },
-    "labels": [
-      "Review"
-    ]
-  },
-  "8": {
-    "2014-05-21 18:00:00": {
+      ],
       "added": [
         "Bug fixing"
       ]
@@ -28,6 +21,14 @@
     "labels": [
       "Bug fixing"
     ]
+  },
+  "8": {
+    "2014-05-21 18:00:00": {
+      "removed": [
+        "Bug fixing"
+      ]
+    },
+    "labels": []
   },
   "9": {
     "2014-05-21 18:00:00": {
@@ -44,23 +45,24 @@
   },
   "10": {
     "2014-05-21 18:00:00": {
-      "added": [
+      "removed": [
         "Development"
+      ],
+      "added": [
+        "Review"
       ]
     },
     "labels": [
-      "Development"
+      "Review"
     ]
   },
   "11": {
     "2014-05-21 18:00:00": {
-      "added": [
+      "removed": [
         "Ready"
       ]
     },
-    "labels": [
-      "Ready"
-    ]
+    "labels": []
   },
   "_timestamp": "2014-05-21 18:00:00"
 }

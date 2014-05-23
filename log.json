@@ -6,8 +6,16 @@
       ]
     },
     "labels": [
-      "Ready"
-    ]
+      "Development"
+    ],
+    "1400803270000": {
+      "removed": [
+        "Ready"
+      ],
+      "added": [
+        "Development"
+      ]
+    }
   },
   "5": {
     "1400802574000": {
@@ -26,8 +34,16 @@
       ]
     },
     "labels": [
-      "Review"
-    ]
+      "Bug fixing"
+    ],
+    "1400803270000": {
+      "removed": [
+        "Review"
+      ],
+      "added": [
+        "Bug fixing"
+      ]
+    }
   },
   "7": {
     "1400802574000": {
@@ -59,5 +75,5 @@
       "Review"
     ]
   },
-  "_timestamp": 1400802574000
+  "_timestamp": 1400803270000
 }
